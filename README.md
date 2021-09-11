@@ -1,6 +1,7 @@
-# Dokumentasi Resmi
+# Sumber Belajar Laravel
+## 📎 Dokumentasi Resmi
 - Laravel - [laravel.com](https://laravel.com/docs/master)
-# Video
+## 🎬 Video
 - Laravel 5.7 - [Youtube - Parsinta](https://www.youtube.com/watch?v=tLWGQN6f8UY&list=PLRKMmwY3-5Mz8iTotz0SgOl9_kpCvkR1w)
 - Laravel 7 - [Youtube - Parsinta](https://www.youtube.com/watch?v=ucV7ynY4M8A&list=PLRKMmwY3-5MxfIKTn_wZ49XlplwHtz1AV)
 - Laravel 8 - [Youtube - Parsinta](https://www.youtube.com/watch?v=tqb8umRITB0&list=PLRKMmwY3-5MwADhthqRaewl-7e7AhjpP8)
@@ -10,9 +11,12 @@
 - Laravel 7 - [Video Course - sekolahkoding.com](https://sekolahkoding.com/kelas/belajar-laravel-7x)
 - Laravel 8 - [Video Course - sekolahkoding.com](https://sekolahkoding.com/kelas/yang-baru-di-laravel-8)
 
-# E-Book
+## 📒 E-Book
 - Laravel 5.8 | 6.0 | 8.12 - [Be Fullstack Developer!](https://buku-laravel-vue.com/)
 
-# Artikel
+## 📰 Artikel
 - Medium.com
 - Dev.to
+
+# 🍀 Kontribusi
+- Silahkan teman-teman tambahkan sumber-sumber belajar laravel berbahasa Indonesia yang lain, sesuaikan format dengan yang sudah ada.
