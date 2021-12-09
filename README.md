@@ -19,4 +19,4 @@
 - Dev.to
 
 # 🍀 Kontribusi
-- Silahkan teman-teman tambahkan sumber-sumber belajar laravel berbahasa Indonesia yang lain, sesuaikan format dengan yang sudah ada.
+- Silahkan teman-teman tambahkan sumber-sumber belajar laravel berbahasa Indonesia yang lain, sesuaikan dengan format yang sudah ada.
